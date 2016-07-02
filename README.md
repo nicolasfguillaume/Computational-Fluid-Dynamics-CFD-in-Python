@@ -21,6 +21,7 @@ http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/
 
 - 2-D Non Linear Convection with Diffusion
 
+![Pic 1](https://github.com/nicolasfguillaume/Computational-Fluid-Dynamics-CFD-in-Python/blob/master/output_9_0.png)
 
-(https://github.com/nicolasfguillaume/Computational-Fluid-Dynamics-CFD-in-Python/blob/master/output_9_0.png)
+
 *2-D Non Linear Convection*
