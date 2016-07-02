@@ -1,7 +1,7 @@
 
 # Computational Fluid Dynamics in Python
 
-![Pic 1](https://github.com/nicolasfguillaume/Computational-Fluid-Dynamics-CFD-in-Python/blob/master/output_9_0.png)
+![Pic 1](https://github.com/nicolasfguillaume/Computational-Fluid-Dynamics-CFD-in-Python/blob/master/output_9_0.png)  
 *2-D Non Linear Convection*
 
 Following the directions of the module called "12 steps to Navier-Stokes equations" at Boston University: 
